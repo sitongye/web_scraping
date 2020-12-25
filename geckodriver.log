@@ -1,0 +1,492 @@
+1608857208472	geckodriver	INFO	Listening on 127.0.0.1:52155
+1608857208538	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMpS6GU"
+1608857218353	Marionette	INFO	Listening on port 35099
+1608857218446	Marionette	WARN	TLS certificate errors will be ignored for this session
+libGL error: MESA-LOADER: failed to retrieve device information
+MESA-LOADER: failed to retrieve device information
+MESA-LOADER: failed to retrieve device information
+JavaScript warning: https://assets.alicdn.com/g/secdev/sufei_data/3.9.1/index.js, line 1: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/et/1.62.1/et_n.js, line 4: WebGL context was lost.
+JavaScript warning: https://assets.alicdn.com/g??xlly/spl/rp.js,secdev/nsv/1.0.78/ns_e_88_3_n.js, line 5: WebGL context was lost.
+JavaScript warning: https://g.alicdn.com/AWSC/WebUMID/1.87.0/um.js, line 7: WebGL context was lost.
+1608857281170	geckodriver	INFO	Listening on 127.0.0.1:34821
+1608857281297	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekoFy5P"
+1608857290126	Marionette	INFO	Listening on port 38077
+1608857290224	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608857354751	geckodriver	INFO	Listening on 127.0.0.1:57051
+1608857354766	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileriLmpb"
+1608857360620	Marionette	INFO	Stopped listening on port 38077
+1608857365868	Marionette	INFO	Listening on port 46819
+1608857365966	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 1966: TypeError: currentPanel is undefined
+console.error: "stylesheets actor: fetch failed for https://www.snipes.com/on/demandware.static/Sites-snse-DE-AT-Site/-/de_DE/v1608795981940/css/styles.css, using system principal instead."
+console.error: "Error while calling actor 'layout's method 'getGrids'" "node is null"
+console.error: "getGrids@resource://devtools/server/actors/layout.js:502:26\ngetGrids@resource://devtools/server/actors/layout.js:507:43\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+1608857734044	geckodriver	INFO	Listening on 127.0.0.1:51093
+1608857734140	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHpVohQ"
+1608857743722	Marionette	INFO	Listening on port 32879
+1608857743812	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+1608857904701	geckodriver	INFO	Listening on 127.0.0.1:34303
+1608857904841	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecnpPqM"
+1608857923578	Marionette	INFO	Listening on port 36431
+1608857923679	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608857944214	geckodriver	INFO	Listening on 127.0.0.1:41287
+1608857944296	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHlOlMy"
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1804: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1804: uncaught exception: [object Object]
+1608857970266	Marionette	INFO	Listening on port 35839
+1608857970457	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608858192878	geckodriver	INFO	Listening on 127.0.0.1:56115
+1608858192936	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemAgXeK"
+1608858208115	Marionette	INFO	Listening on port 38743
+1608858208197	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1804: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1804: uncaught exception: [object Object]
+1608858267937	geckodriver	INFO	Listening on 127.0.0.1:41801
+1608858268589	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewMrMOa"
+1608858299923	Marionette	INFO	Listening on port 40963
+1608858301491	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1804: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1804: uncaught exception: [object Object]
+1608858449434	geckodriver	INFO	Listening on 127.0.0.1:33161
+1608858449571	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHTECEu"
+1608858470021	Marionette	INFO	Listening on port 41235
+1608858470184	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608858708441	geckodriver	INFO	Listening on 127.0.0.1:60281
+1608858709519	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecSdR4I"
+1608858738928	Marionette	INFO	Listening on port 42489
+1608858739031	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1804: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1804: uncaught exception: [object Object]
+1608858930560	geckodriver	INFO	Listening on 127.0.0.1:37623
+1608858930642	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqMZglF"
+1608858956433	Marionette	INFO	Listening on port 36739
+1608858956936	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1804: uncaught exception: [object Object]
+1608859049545	Marionette	INFO	Stopped listening on port 36739
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: , line 0: uncaught exception: Object
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: https://www.snipes.com/on/demandware.static/Sites-snse-DE-AT-Site/-/de_DE/v1608795981940/js/vendors.js, line 25: InternalError: too much recursion
+JavaScript error: https://cdn.cquotient.com/js/v2/gretel.min.js, line 1: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: https://www.snipes.com/on/demandware.static/Sites-snse-DE-AT-Site/-/de_DE/v1608795981940/js/vendors.js, line 25: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: https://www.snipes.com/on/demandware.static/Sites-snse-DE-AT-Site/-/de_DE/v1608795981940/js/vendors.js, line 25: InternalError: too much recursion
+JavaScript error: https://www.snipes.com/on/demandware.static/Sites-snse-DE-AT-Site/-/de_DE/v1608795981940/js/vendors.js, line 25: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 68: InternalError: too much recursion
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Handler function threw an exception: TypeError: this.walker is null
+Stack: get conn@resource://devtools/server/actors/inspector/node.js:182:5
+getParent@resource://devtools/shared/protocol/Pool.js:40:5
+destroy@resource://devtools/shared/protocol/Pool.js:165:25
+destroy@resource://devtools/shared/protocol/Actor.js:76:11
+destroy@resource://devtools/server/actors/inspector/node.js:193:38
+destroy@resource://devtools/shared/protocol/Pool.js:189:17
+destroy@resource://devtools/shared/protocol/Actor.js:76:11
+destroy@resource://devtools/server/actors/styles.js:153:38
+destroy@resource://devtools/shared/protocol/Pool.js:189:17
+destroy@resource://devtools/shared/protocol/Actor.js:76:11
+destroy@resource://devtools/server/actors/inspector/inspector.js:126:38
+destroy@resource://devtools/shared/protocol/Pool.js:189:17
+_detach@resource://devtools/server/actors/targets/browsing-context.js:991:35
+exit@resource://devtools/server/actors/targets/browsing-context.js:573:10
+destroy@resource://devtools/server/actors/targets/browsing-context.js:554:10
+removeActor@resource://devtools/server/actors/common.js:63:13
+APDestroy@resource://devtools/server/actors/common.js:28:12
+onClosed/<@resource://devtools/server/devtools-server-connection.js:477:37
+onClosed@resource://devtools/server/devtools-server-connection.js:477:22
+close@resource://devtools/shared/transport/child-transport.js:62:16
+close@resource://devtools/server/devtools-server-connection.js:86:23
+onDisconnect<@resource://devtools/server/startup/frame.js:145:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 182, column: 5
+console.error: (new TypeError("this.walker is null", "resource://devtools/server/actors/inspector/node.js", 182))
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 180: Error: permitUnload is already running for this tab.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2234: TypeError: subject.QueryInterface is not a function
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2234: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1608891275364	Marionette	INFO	Stopped listening on port 40963
+1608891275534	Marionette	INFO	Stopped listening on port 36431
+1608891275911	Marionette	INFO	Stopped listening on port 38743
+1608891276334	Marionette	INFO	Stopped listening on port 41235
+1608891276516	Marionette	INFO	Stopped listening on port 35099
+1608891276634	Marionette	INFO	Stopped listening on port 42489
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1608891277265	Marionette	INFO	Stopped listening on port 35839
+1608891278923	Marionette	INFO	Stopped listening on port 46819
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39006D,name=PContent::Msg_SuspendInputEventQueue) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39006B,name=PContent::Msg_FlushInputEventQueue) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x39006C,name=PContent::Msg_ResumeInputEventQueue) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x390050,name=PContent::Msg_Shutdown) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2234: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1608891299751	Marionette	INFO	Stopped listening on port 32879
+1608896503519	geckodriver	INFO	Listening on 127.0.0.1:52969
+1608896504546	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDtTfle"
+1608896514786	Marionette	INFO	Listening on port 44575
+1608896514888	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1804: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1804: uncaught exception: [object Object]
+1608896682604	geckodriver	INFO	Listening on 127.0.0.1:59469
+1608896682841	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIemUG0"
+1608896686093	Marionette	INFO	Stopped listening on port 44575
+1608896696904	Marionette	INFO	Listening on port 33905
+1608896696988	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608896712070	geckodriver	INFO	Listening on 127.0.0.1:36835
+1608896712162	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQncASa"
+1608896722174	Marionette	INFO	Listening on port 38937
+1608896722263	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608896732692	Marionette	INFO	Stopped listening on port 33905
+1608896872359	geckodriver	INFO	Listening on 127.0.0.1:58573
+1608896872473	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletKO99r"
+1608896880375	geckodriver	INFO	Listening on 127.0.0.1:51807
+1608896880416	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezu2EDG"
+1608896892392	Marionette	INFO	Listening on port 37429
+1608896892483	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+1608896907653	Marionette	INFO	Stopped listening on port 38937
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1804: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1804: uncaught exception: [object Object]
+1608896928515	geckodriver	INFO	Listening on 127.0.0.1:42473
+1608896928606	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXdn3cM"
+1608896940720	Marionette	INFO	Listening on port 41879
+1608896940942	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608896955772	Marionette	INFO	Stopped listening on port 37429
+1608897168130	geckodriver	INFO	Listening on 127.0.0.1:47675
+1608897168234	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5iBnMg"
+1608897177548	Marionette	INFO	Stopped listening on port 41879
+1608897180016	Marionette	INFO	Listening on port 42689
+1608897180281	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608897235676	geckodriver	INFO	Listening on 127.0.0.1:42871
+1608897235775	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileh9clzp"
+1608897243527	Marionette	INFO	Stopped listening on port 42689
+1608897245821	geckodriver	INFO	Listening on 127.0.0.1:42561
+1608897245864	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNnlC9S"
+1608897254500	Marionette	INFO	Listening on port 41461
+1608897254582	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608897343184	geckodriver	INFO	Listening on 127.0.0.1:59755
+1608897343212	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileE7j307"
+1608897356340	Marionette	INFO	Listening on port 34603
+1608897356426	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1804: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-KTSSRX7&gtm_auth=jbsdvqabmLqeBEM377nQiQ&gtm_preview=env-2&gtm_cookies_win=x, line 1804: uncaught exception: [object Object]
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+console.error: "Store does not have a valid reducer. Make sure the argument passed to combineReducers is an object whose values are reducers."
+console.error: "Error sending event: scrollable-change"
+console.error: ({})
+[Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIEventListenerService.getListenerInfoFor]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: resource://devtools/server/actors/inspector/event-collector.js :: getDOMListeners :: line 266"  data: no]: getDOMListeners@resource://devtools/server/actors/inspector/event-collector.js:266:22
+getListeners@resource://devtools/server/actors/inspector/event-collector.js:334:28
+hasListeners@resource://devtools/server/actors/inspector/event-collector.js:227:17
+hasEventListeners@resource://devtools/server/actors/inspector/event-collector.js:800:21
+get _hasEventListeners@resource://devtools/server/actors/inspector/node.js:459:33
+form@resource://devtools/server/actors/inspector/node.js:262:7
+write@resource://devtools/shared/protocol/types.js:363:32
+types.addArrayType/write/<@resource://devtools/shared/protocol/types.js:220:33
+write@resource://devtools/shared/protocol/types.js:220:16
+write@resource://devtools/shared/protocol/Request.js:117:22
+write@resource://devtools/shared/protocol/Request.js:43:26
+_sendEvent@resource://devtools/shared/protocol/Actor.js:66:24
+initialize/<@resource://devtools/shared/protocol/Actor.js:46:16
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_onReflows@resource://devtools/server/actors/inspector/walker.js:663:12
+_emit@resource://devtools/shared/event-emitter.js:226:34
+emit@resource://devtools/shared/event-emitter.js:172:18
+emit@resource://devtools/shared/event-emitter.js:324:18
+_startEventLoop@resource://devtools/server/actors/reflow.js:315:12
+notify@resource://gre/modules/Timer.jsm:62:17
+
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "InspectorUtils.hasRulesModifiedByCSSOM: Argument 1 does not implement interface CSSStyleSheet."
+console.error: "hasRulesModifiedByCSSOM@resource://devtools/server/actors/stylesheets.js:368:27\nget canSetRuleText@resource://devtools/server/actors/styles.js:1295:26\ngetAuthoredCssText@resource://devtools/server/actors/styles.js:1653:9\ngetApplied@resource://devtools/server/actors/styles.js:602:18\n"
+console.error: "Error writing response to: getApplied"
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "can't access dead object"
+console.error: "form@resource://devtools/server/actors/styles.js:1475:21\nwrite@resource://devtools/shared/protocol/types.js:363:32\ntypes.addArrayType/write/<@resource://devtools/shared/protocol/types.js:220:33\nwrite@resource://devtools/shared/protocol/types.js:220:16\nwrite@resource://devtools/shared/protocol/types.js:268:39\nwrite@resource://devtools/shared/protocol/Response.js:102:22\nwrite@resource://devtools/shared/protocol/Response.js:47:28\nsendReturn@resource://devtools/shared/protocol/Actor.js:172:38\n"
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "style is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:1050:7\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "style is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:1050:7\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "can't access dead object"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:1020:24\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (TypeError): InspectorUtils.hasRulesModifiedByCSSOM: Argument 1 does not implement interface CSSStyleSheet. from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/stylesheets.js:368:27)", "resource://devtools/shared/protocol/Front.js", 323))
+console.error: (new Error("Protocol error (TypeError): InspectorUtils.hasRulesModifiedByCSSOM: Argument 1 does not implement interface CSSStyleSheet. from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/stylesheets.js:368:27)", "resource://devtools/shared/protocol/Front.js", 323))
+console.error: (new Error("Protocol error (TypeError): InspectorUtils.hasRulesModifiedByCSSOM: Argument 1 does not implement interface CSSStyleSheet. from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/stylesheets.js:368:27)", "resource://devtools/shared/protocol/Front.js", 323))
+console.error: (new Error("Protocol error (TypeError): can't access dead object from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/styles.js:1475:21)", "resource://devtools/shared/protocol/Front.js", 323))
+console.error: (new Error("Protocol error (TypeError): style is null from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/styles.js:1050:7)", "resource://devtools/shared/protocol/Front.js", 323))
+console.error: (new Error("Protocol error (TypeError): style is null from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/styles.js:1050:7)", "resource://devtools/shared/protocol/Front.js", 323))
+console.error: (new Error("Protocol error (TypeError): can't access dead object from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/styles.js:1020:24)", "resource://devtools/shared/protocol/Front.js", 323))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "can't access dead object"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:1020:24\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (TypeError): can't access dead object from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/styles.js:1020:24)", "resource://devtools/shared/protocol/Front.js", 323))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "can't access dead object"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:1020:24\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (TypeError): can't access dead object from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/styles.js:1020:24)", "resource://devtools/shared/protocol/Front.js", 323))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "can't access dead object"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:1020:24\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "can't access dead object"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:1020:24\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (TypeError): can't access dead object from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/styles.js:1020:24)", "resource://devtools/shared/protocol/Front.js", 323))
+console.error: (new Error("Protocol error (TypeError): can't access dead object from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/styles.js:1020:24)", "resource://devtools/shared/protocol/Front.js", 323))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "can't access dead object"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:1020:24\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (TypeError): can't access dead object from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/styles.js:1020:24)", "resource://devtools/shared/protocol/Front.js", 323))
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "can't access dead object"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:1020:24\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (TypeError): can't access dead object from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/styles.js:1020:24)", "resource://devtools/shared/protocol/Front.js", 323))
+console.error: "stylesheets actor: fetch failed for https://www.snipes.com/on/demandware.static/Sites-snse-DE-AT-Site/-/de_DE/v1608882361233/css/styles.css, using system principal instead."
+JavaScript error: https://m.liverea.ch/javascripts/embed-js.js, line 2: ChunkLoadError: Loading chunk vendors~grid~lightbox~news~slider failed.
+(error: https://m.liverea.ch/javascripts/chunks/vendors~grid~lightbox~news~slider.0abbf02f496dee59470c.bundle.js)
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: "getLayout@resource://devtools/server/actors/styles.js:1013:5\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/styles.js:1013:5)", "resource://devtools/shared/protocol/Front.js", 323))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: "getApplied@resource://devtools/server/actors/styles.js:587:5\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/styles.js:587:5)", "resource://devtools/shared/protocol/Front.js", 323))
+console.error: "Error while calling actor 'pagestyle's method 'getApplied'" "node is null"
+console.error: "getApplied@resource://devtools/server/actors/styles.js:587:5\nhandler@resource://devtools/shared/protocol/Actor.js:162:37\nonPacket@resource://devtools/server/devtools-server-connection.js:380:58\nreceiveMessage@resource://devtools/shared/transport/child-transport.js:66:16\n"
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.child2/pagestyle26 (resource://devtools/server/actors/styles.js:587:5)", "resource://devtools/shared/protocol/Front.js", 323))
+Handler function threw an exception: TypeError: this.walker is null
+Stack: get conn@resource://devtools/server/actors/inspector/node.js:182:5
+getParent@resource://devtools/shared/protocol/Pool.js:40:5
+destroy@resource://devtools/shared/protocol/Pool.js:165:25
+destroy@resource://devtools/shared/protocol/Actor.js:76:11
+destroy@resource://devtools/server/actors/inspector/node.js:193:38
+destroy@resource://devtools/shared/protocol/Pool.js:189:17
+destroy@resource://devtools/shared/protocol/Actor.js:76:11
+destroy@resource://devtools/server/actors/styles.js:153:38
+destroy@resource://devtools/shared/protocol/Pool.js:189:17
+destroy@resource://devtools/shared/protocol/Actor.js:76:11
+destroy@resource://devtools/server/actors/inspector/inspector.js:126:38
+destroy@resource://devtools/shared/protocol/Pool.js:189:17
+_detach@resource://devtools/server/actors/targets/browsing-context.js:991:35
+exit@resource://devtools/server/actors/targets/browsing-context.js:573:10
+destroy@resource://devtools/server/actors/targets/browsing-context.js:554:10
+removeActor@resource://devtools/server/actors/common.js:63:13
+APDestroy@resource://devtools/server/actors/common.js:28:12
+onClosed/<@resource://devtools/server/devtools-server-connection.js:477:37
+onClosed@resource://devtools/server/devtools-server-connection.js:477:22
+close@resource://devtools/shared/transport/child-transport.js:62:16
+close@resource://devtools/server/devtools-server-connection.js:86:23
+onDisconnect<@resource://devtools/server/startup/frame.js:145:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 182, column: 5
+console.error: (new TypeError("this.walker is null", "resource://devtools/server/actors/inspector/node.js", 182))
+console.warn: "Inspector destroyed while executing onReflow callback"
+1608901166507	Marionette	INFO	Stopped listening on port 41461
+1608915606566	geckodriver	INFO	Listening on 127.0.0.1:40157
+1608915607580	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZqXUSQ"
+1608915619094	Marionette	INFO	Listening on port 33763
+1608915619210	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608915753641	geckodriver	INFO	Listening on 127.0.0.1:50807
+1608915754634	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9B7a4w"
+1608915767351	Marionette	INFO	Listening on port 39715
+1608915767443	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608915866850	geckodriver	INFO	Listening on 127.0.0.1:50511
+1608915866934	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLqDESq"
+1608915883775	Marionette	INFO	Listening on port 46123
+1608915883986	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608915961435	geckodriver	INFO	Listening on 127.0.0.1:53753
+1608915961515	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTuQMXx"
+1608915983107	Marionette	INFO	Listening on port 45995
+1608915983222	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608916129217	Marionette	INFO	Stopped listening on port 45995
+1608917682068	geckodriver	INFO	Listening on 127.0.0.1:42877
+1608917683117	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesogTxj"
+1608917709907	geckodriver	INFO	Listening on 127.0.0.1:60661
+1608917709970	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1iEj6p"
+1608917735767	Marionette	INFO	Listening on port 39609
+1608917735922	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2234: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2234: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2234: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2234: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608917832610	Marionette	INFO	Stopped listening on port 46123
+1608917832795	Marionette	INFO	Stopped listening on port 39715
+1608917832982	Marionette	INFO	Stopped listening on port 33763
+1608917834855	Marionette	INFO	Stopped listening on port 39609
+1608917837239	geckodriver	INFO	Listening on 127.0.0.1:41455
+1608917838177	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilei3ZH6B"
+1608917845976	Marionette	INFO	Listening on port 42995
+1608917846122	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608918019307	geckodriver	INFO	Listening on 127.0.0.1:56921
+1608918020319	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerXMZS0"
+1608918030709	Marionette	INFO	Listening on port 44067
+1608918030835	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608918281793	geckodriver	INFO	Listening on 127.0.0.1:49305
+1608918281851	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileItnztR"
+1608918297183	Marionette	INFO	Listening on port 40667
+1608918297305	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608918846195	geckodriver	INFO	Listening on 127.0.0.1:33311
+1608918846256	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileF4Xgx7"
+1608918867755	Marionette	INFO	Listening on port 34299
+1608918868754	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1608918964995	geckodriver	INFO	Listening on 127.0.0.1:57703
+1608918965057	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaRu07i"
+1608918984346	Marionette	INFO	Listening on port 37943
+1608918984585	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608919715496	geckodriver	INFO	Listening on 127.0.0.1:53091
+1608919716822	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileXT6qcJ"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+console.error: Region.jsm: "Failed to fetch region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 681))
+1608919788784	geckodriver	INFO	Listening on 127.0.0.1:54139
+1608919789274	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiled9k4Cx"
+1608919824821	Marionette	INFO	Listening on port 45079
+1608919825565	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: resource://gre/actors/BrowserElementParent.jsm, line 314: TypeError: state is undefined
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2234: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2234: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xAB0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2234: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1608922660484	Marionette	INFO	Stopped listening on port 44067
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2234: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1608922661098	Marionette	INFO	Stopped listening on port 45079
+1608922661811	Marionette	INFO	Stopped listening on port 37943
+1608922661820	Marionette	INFO	Stopped listening on port 40667
+1608922662249	Marionette	INFO	Stopped listening on port 42995
