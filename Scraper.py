@@ -72,7 +72,7 @@ class foot_locker(Scraper):
             print(re.sub(r"\\n", "", size.get_text()))
         return sizes
 
-    def add_to_cart(self, proxy=False):
+    def add_to_cart(self, proxy=True):
         if proxy is True:
             PROXY = "165.227.173.87:40001"
             webdriver.DesiredCapabilities.FIREFOX['proxy'] = {
@@ -84,14 +84,15 @@ class foot_locker(Scraper):
             }
         self.driver = webdriver.Firefox(executable_path='./geckodriver')
         self.driver.get(self.url)
-        #WebDriverWait(self.driver, 10)
-        select_size_button = self.driver.find_elements_by_xpath(r'/html/body/main/div/div[4]/div/div/div[3]/form/div/div[3]/div/div[1]/div/div/section[1]/div/button[1]')[0]
+        WebDriverWait(self.driver, 10)
+        select_size_button = self.driver.find_elements_by_xpath(r'// *[ @ id = "fitanalytics_sizecontainer"] / section[1] / div / button[1]')[0]
+
         self.driver.execute_script("arguments[0].click();", select_size_button)
-        #WebDriverWait(self.driver, 10)
+        WebDriverWait(self.driver, 10)
         add_to_cart_button = self.driver.find_elements_by_xpath(r'//*[@id="add-to-cart-form"]/div/div[3]/div/div[7]/button')[0]
         self.driver.execute_script("arguments[0].click();", add_to_cart_button)
 def test():
-    new_shoe = foot_locker("https://www.footlocker.de/en/p/adidas-superstar-men-shoes-440?v=314310212304")
+    new_shoe = foot_locker("https://www.footlocker.de/en/p/nike-air-force-1-07-x-3m-men-shoes-118661?v=314108366304")
     response = new_shoe._get_request()
     print(response)
     soup = new_shoe._get_soup(response)

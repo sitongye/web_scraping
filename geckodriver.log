@@ -1189,3 +1189,162 @@ JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code aft
 JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
 JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
 JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+1609010925552	geckodriver	INFO	Listening on 127.0.0.1:37867
+1609010926566	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaP6MCi"
+1609010935272	Marionette	INFO	Listening on port 37717
+1609010935321	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+libGL error: MESA-LOADER: failed to retrieve device information
+MESA-LOADER: failed to retrieve device information
+MESA-LOADER: failed to retrieve device information
+1609011022207	geckodriver	INFO	Listening on 127.0.0.1:44003
+1609011023220	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1XWk2q"
+1609011031277	Marionette	INFO	Listening on port 40653
+1609011031313	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+libGL error: MESA-LOADER: failed to retrieve device information
+MESA-LOADER: failed to retrieve device information
+MESA-LOADER: failed to retrieve device information
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+1609011044537	Marionette	INFO	Stopped listening on port 40653
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1609011079580	Marionette	INFO	Stopped listening on port 39193
+1609011079848	Marionette	INFO	Stopped listening on port 37717
+1609011144105	geckodriver	INFO	Listening on 127.0.0.1:39687
+1609011145123	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehCKgZU"
+1609011152901	Marionette	INFO	Listening on port 35455
+1609011153054	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+libGL error: MESA-LOADER: failed to retrieve device information
+MESA-LOADER: failed to retrieve device information
+MESA-LOADER: failed to retrieve device information
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+1609011169970	Marionette	INFO	Stopped listening on port 35455
+1609011174364	geckodriver	INFO	Listening on 127.0.0.1:44457
+1609011174412	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegagxi0"
+1609011181666	Marionette	INFO	Listening on port 45345
+1609011181790	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609011181800	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"165.227.173.87:40001","httpProxy":"165.227.173.87:40001","sslProxy":"165.227.173.87:40001"}
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+libGL error: MESA-LOADER: failed to retrieve device information
+MESA-LOADER: failed to retrieve device information
+MESA-LOADER: failed to retrieve device information
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1609011255107	Marionette	INFO	Stopped listening on port 45345
+1609011270975	geckodriver	INFO	Listening on 127.0.0.1:57083
+1609011271055	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDk62DP"
+1609011277840	Marionette	INFO	Listening on port 37407
+1609011277914	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+libGL error: MESA-LOADER: failed to retrieve device information
+MESA-LOADER: failed to retrieve device information
+MESA-LOADER: failed to retrieve device information
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+1609011347734	Marionette	INFO	Stopped listening on port 37407
+1609011349976	geckodriver	INFO	Listening on 127.0.0.1:46417
+1609011350996	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeYjXhc"
+1609011357638	Marionette	INFO	Listening on port 39911
+1609011357771	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+libGL error: MESA-LOADER: failed to retrieve device information
+MESA-LOADER: failed to retrieve device information
+MESA-LOADER: failed to retrieve device information
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+1609011375312	Marionette	INFO	Stopped listening on port 39911
+1609011529961	geckodriver	INFO	Listening on 127.0.0.1:44511
+1609011530017	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepbiimQ"
+Exiting due to channel error.
+Exiting due to channel error.
+1609011540064	geckodriver	INFO	Listening on 127.0.0.1:54601
+1609011541077	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVhIcl5"
+1609011548436	Marionette	INFO	Listening on port 35347
+1609011548535	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609011548544	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"3.213.11.1:31112","httpProxy":"3.213.11.1:31112","sslProxy":"3.213.11.1:31112"}
+1609011560096	Marionette	INFO	Stopped listening on port 35347
+1609011578078	geckodriver	INFO	Listening on 127.0.0.1:49769
+1609011578174	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefQDPF7"
+1609011585115	Marionette	INFO	Listening on port 34803
+1609011585184	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609011585190	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"34.195.179.249:31112","httpProxy":"34.195.179.249:31112","sslProxy":"34.195.179.249:31112"}
+1609011599099	Marionette	INFO	Stopped listening on port 34803
+1609011614996	geckodriver	INFO	Listening on 127.0.0.1:47319
+1609011626750	geckodriver	INFO	Listening on 127.0.0.1:37217
+1609011626807	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletZP66W"
+1609011633466	Marionette	INFO	Listening on port 39759
+1609011633549	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609011633555	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"3.223.244.154:31112","httpProxy":"3.223.244.154:31112","sslProxy":"3.223.244.154:31112"}
+1609011655733	Marionette	INFO	Stopped listening on port 39759
+1609011661431	geckodriver	INFO	Listening on 127.0.0.1:38727
+1609011661467	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileP1yTgB"
+1609011668920	Marionette	INFO	Listening on port 45229
+1609011669052	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609011669066	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"3.90.118.228:31112","httpProxy":"3.90.118.228:31112","sslProxy":"3.90.118.228:31112"}
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+1609012047138	geckodriver	INFO	Listening on 127.0.0.1:54209
+1609012048151	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAk5TGl"
+1609012055575	Marionette	INFO	Listening on port 40881
+1609012055642	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609012055649	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"49.12.2.178:3128","httpProxy":"49.12.2.178:3128","sslProxy":"49.12.2.178:3128"}
+1609012063933	Marionette	INFO	Stopped listening on port 40881
+1609012081118	geckodriver	INFO	Listening on 127.0.0.1:42219
+1609012082147	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejrKGzQ"
+1609012089892	Marionette	INFO	Listening on port 46431
+1609012089999	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609012090004	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"165.227.173.87:40001","httpProxy":"165.227.173.87:40001","sslProxy":"165.227.173.87:40001"}
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+libGL error: MESA-LOADER: failed to retrieve device information
+MESA-LOADER: failed to retrieve device information
+MESA-LOADER: failed to retrieve device information
+1609012131528	geckodriver	INFO	Listening on 127.0.0.1:53405
+1609012131544	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileCkJTc8"
+1609012140436	Marionette	INFO	Listening on port 46651
+1609012140541	Marionette	WARN	TLS certificate errors will be ignored for this session
+1609012140547	Marionette	INFO	Proxy settings initialised: {"proxyType":"manual","ftpProxy":"165.227.173.87:40001","httpProxy":"165.227.173.87:40001","sslProxy":"165.227.173.87:40001"}
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+JavaScript warning: https://js.datadome.co/tags.js, line 2: unreachable code after return statement
+libGL error: MESA-LOADER: failed to retrieve device information
+MESA-LOADER: failed to retrieve device information
+MESA-LOADER: failed to retrieve device information
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1609012190111	Marionette	INFO	Stopped listening on port 46651
+1609012195683	Marionette	INFO	Stopped listening on port 46431
